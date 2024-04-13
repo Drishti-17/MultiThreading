@@ -15,7 +15,10 @@ The script will generate the following outputs:
     - Table showing the time taken for matrix multiplication with different numbers of threads.
     - Graph plotting the matrix multiplication time versus the number of threads.
     - CPU usages (if available).
-    
+## Result Graph
+<img width="494" alt="image" src="https://github.com/Drishti-17/MultiThreading/assets/91721425/0bef8bc7-7420-435e-a866-2d63f2c8513f">
+
+
 ## Results Interpretation
 
 - **Time Taken (Sec):** Indicates the time taken for matrix multiplication in seconds. Lower values indicate better performance.
@@ -34,3 +37,16 @@ The script will generate the following outputs:
 | 6       | 300              | 65            |
 | 7       | 350              | 70            |
 | 8       | 400              | 75            |
+
+## Result Table
+
+<img width="189" alt="image" src="https://github.com/Drishti-17/MultiThreading/assets/91721425/15598374-29aa-4d65-a555-577624dbb5f8">
+
+
+Submitted By: Drishti Agarwal
+
+
+Roll Number: 102117158
+
+
+Batch: 3CS6
