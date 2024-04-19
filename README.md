@@ -16,7 +16,12 @@ The script will generate the following outputs:
     - Graph plotting the matrix multiplication time versus the number of threads.
     - CPU usages (if available).
 ## Result Graph
+ For 1000 x 1000 matrix
 <img width="494" alt="image" src="https://github.com/Drishti-17/MultiThreading/assets/91721425/0bef8bc7-7420-435e-a866-2d63f2c8513f">
+
+
+ For 5000 x 5000 matrix
+<img width="503" alt="image" src="https://github.com/Drishti-17/MultiThreading/assets/91721425/f7e3857f-c4d7-483e-8acc-dd3181bcb162">
 
 
 ## Results Interpretation
@@ -40,7 +45,13 @@ The script will generate the following outputs:
 
 ## Result Table
 
+ For 1000 x 1000 matrix
 <img width="189" alt="image" src="https://github.com/Drishti-17/MultiThreading/assets/91721425/15598374-29aa-4d65-a555-577624dbb5f8">
+
+
+ For 5000 x 5000 matrix
+<img width="176" alt="image" src="https://github.com/Drishti-17/MultiThreading/assets/91721425/63089f36-38a8-4d81-8686-5f34f0b6ec88">
+
 
 
 Submitted By: Drishti Agarwal
